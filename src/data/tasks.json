@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "title": "Complete React Project",
+      "description": "Build a responsive task management application using React.",
+      "status": "pending",
+      "priority": "high",
+      "category": "Development",
+      "dueDate": "2026-11-12",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Learn Next.js Server Components",
+      "description": "Understand how server components work in Next.js.",
+      "status": "in-progress",
+      "priority": "high",
+      "category": "Learning",
+      "dueDate": "2026-11-13",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Read a Programming Book",
+      "description": "Read 20 pages of a JavaScript programming book.",
+      "status": "pending",
+      "priority": "medium",
+      "category": "Personal",
+      "dueDate": "2026-11-15",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Fix Navbar Responsiveness",
+      "description": "Make the navigation bar responsive across mobile and desktop devices.",
+      "status": "completed",
+      "priority": "high",
+      "category": "Development",
+      "dueDate": "2026-11-09",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "title": "Practice JavaScript",
+      "description": "Solve five JavaScript problems focusing on arrays and objects.",
+      "status": "in-progress",
+      "priority": "medium",
+      "category": "Learning",
+      "dueDate": "2026-11-14",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "title": "Design Dashboard UI",
+      "description": "Create a modern dashboard interface using Tailwind CSS.",
+      "status": "pending",
+      "priority": "high",
+      "category": "Design",
+      "dueDate": "2026-11-16",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "Attend Team Meeting",
+      "description": "Discuss project progress and upcoming development tasks.",
+      "status": "completed",
+      "priority": "low",
+      "category": "Work",
+      "dueDate": "2026-11-10",
+      "completed": true
+    },
+    {
+      "id": 8,
+      "title": "Update Project Documentation",
+      "description": "Write documentation for API endpoints and project setup.",
+      "status": "pending",
+      "priority": "medium",
+      "category": "Development",
+      "dueDate": "2026-11-18",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "title": "Review Pull Requests",
+      "description": "Review teammates' code and provide constructive feedback.",
+      "status": "in-progress",
+      "priority": "medium",
+      "category": "Work",
+      "dueDate": "2026-11-11",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "title": "Organize Workspace",
+      "description": "Clean up files and organize the development environment.",
+      "status": "pending",
+      "priority": "low",
+      "category": "Personal",
+      "dueDate": "2026-11-20",
+      "completed": false
+    }
+  ]
